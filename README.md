@@ -11,8 +11,8 @@ ___  ___ _   ___    _  _____  _____  _____  _____ _ _____   _____ _____ _____ _ 
 
 
 [![N|SKILLS CHART](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MKW2000)]()
+[![N|summary]([https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MKW2000](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MKW2000))]()
 
-[![N|SUMMARY](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MKW2000)]()
 
 
 
