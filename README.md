@@ -9,7 +9,7 @@ ___  ___ _   ___    _  _____  _____  _____  _____ _ _____   _____ _____ _____ _ 
                                                                                                 
 ```
 
-Hi there! This is my space for personal / open-source projects and experiments with new technologies.  For all professional inquiries feel free to reach out via [Email](mailto:michaelkw.js@gmail.com).
+Hi there! This is my space for personal / open-source projects and experiments for fun.  For all professional inquiries feel free to reach out via [Email](mailto:michaelkw.js@gmail.com).
 
 [![N|SKILLS CHART](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MKW2000)]()
 
